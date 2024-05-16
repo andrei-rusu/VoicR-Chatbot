@@ -2,7 +2,7 @@
 
 This is a sample Android chatbot project that connects to the Google Cloud for NLU and Mobile BaaS services.
 It utilizes Dialogflow and Google Functions to fulfill various types of conversational requests, including traffic and location information, top places to visit, weather conditions etc.
-
+Please note the repository has the API keys hidden, so separate ``google-services.json`` and ``assets/agent-name.json`` need to be setup with own keys.
 
 # Useful Links for collaborators
 
